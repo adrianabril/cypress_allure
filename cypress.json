@@ -1,0 +1,12 @@
+{
+  "env": {
+
+  },
+  "baseUrl": "https://demoqa.com/",
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  },
+  "viewportWidth": 1800,
+  "viewportHeight": 900
+}
