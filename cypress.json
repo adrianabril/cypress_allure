@@ -1,7 +1,5 @@
 {
-  "env": {
-
-  },
+  "env": {},
   "baseUrl": "https://demoqa.com/",
   "retries": {
     "runMode": 2,
