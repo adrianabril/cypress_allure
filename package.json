@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "npx cypress open",
-    "cy:run-tests": "NO_COLOR=1 npx cypress run --spec='cypress/integration/1-getting-started/**/*'"
+    "cy:run-tests": "NOCOLOR=1 npx cypress run --spec='cypress/integration/1-getting-started/**/*'"
   },
   "repository": {
     "type": "git",
